@@ -2,3 +2,7 @@ Flask
 gunicorn
 aiohttp
 pyrotgfork[fast]
+pytz
+Jinja2
+werkzeug
+itsdangerous
